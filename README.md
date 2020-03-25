@@ -78,7 +78,7 @@ That said, since I've been using my kite aerial rig and/or a loaner drone to cap
 ground (pre-flight ...since I'm obviously not available to set it mid-flight).
 
 ..Either way, the code seems sound, and follows the logic and teachings of some of my wise predecessors. For a mere 600 bucks (kite and camera included), I obtained a valuable 
-methodology of calculating an individual tree canopies NDVI and LAI. Considering the thousands usually spent on such an effort - I consider it a win.
+methodology of calculating an individual tree's NDVI and LAI. Considering the thousands usually spent on such an effort - I consider it a win.
 
 
 **Examples of this being done before:**
