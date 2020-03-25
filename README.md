@@ -74,8 +74,8 @@ It seems very possible to do the math appropriately, but you need to have some d
 does a pretty good job showing how the Red channel can be completely oversaturated if your camera is using the AWB. Such an oversaturation in the red channel is going to definitely
 cause errors in an NDVI calculation...and there isn't much way to correct that unless you've done some careful light measurements to correct the numbers in post-processing.
 
-That said, since I've been using my kite aerial rig and/or a loaner drone to capture these images, I'm going to have to learn how to do a better white balance estimation happen on
-ground (since I'm not available to set it mid-flight).
+That said, since I've been using my kite aerial rig and/or a loaner drone to capture these images, I'm going to have to learn how to do a better white balance estimation on the 
+ground (pre-flight ...since I'm obviously not available to set it mid-flight).
 
 ..Either way, the code seems sound, and follows the logic and teachings of some of my wise predecessors. For a mere 600 bucks (kite and camera included), I obtained a valuable 
 methodology of calculating an individual tree canopies NDVI and LAI. Considering the thousands usually spent on such an effort - I consider it a win.
