@@ -26,11 +26,11 @@ The data from the Sony Nex-5 camera used has been hacked to add a [SuperBlue fil
 
 **Example without SuperBlue filter:**
 
-![Screenshot](https://raw.github.com/TreeMama/SuperBlue_Calcs_LAI_NDVI/master/Example_NDVI/20130620-152605.JPG)
+![Screenshot](https://raw.github.com/TreeMama/SuperBlue-Calculate-LAI-NDVI/master/Example_NDVI/20130620-152605.JPG)
 
 **Example with SuperBlue filter:**
 
-![Screenshot](https://raw.github.com/TreeMama/SuperBlue_Calcs_LAI_NDVI/master/Example_NDVI/20140620-161402.JPG)
+![Screenshot](https://raw.github.com/TreeMama/SuperBlue-Calculate-LAI-NDVI/master/Example_NDVI/20140620-161402.JPG)
 
 The SuperBlue filter passes blue light AS WELL AS infrared light into the blue channel- thus making it plausible that we could calculate a version of the [NDVI](https://earthobservatory.nasa.gov/features/MeasuringVegetation/measuring_vegetation_2.php "NDVI") using
 
@@ -45,7 +45,7 @@ The SuperBlue filter passes blue light AS WELL AS infrared light into the blue c
 This is an example of an NDVI image calculated using professional Remote Sensing software (which helped correct the white balance issues I was having). My goal was to try to
 replicate this result using a different data set and free python libraries.
 
-![Screenshot](https://raw.github.com/TreeMama/SuperBlue_Calcs_LAI_NDVI/master/Example_NDVI/NDVI.JPG)
+![Screenshot](https://raw.github.com/TreeMama/SuperBlue-Calculate-LAI-NDVI/master/Example_NDVI/NDVI.JPG)
 
 I also attempted to calculate a version of the [LAI](https://crisp.nus.edu.sg/~acrs2001/pdf/155SAITO.PDF "LAI") using the NDVI I calculated, based of this formula:
 
@@ -53,7 +53,7 @@ I also attempted to calculate a version of the [LAI](https://crisp.nus.edu.sg/~a
 
 This is an example of a processed result.
 
-![Screenshot](https://raw.github.com/TreeMama/SuperBlue_Calcs_LAI_NDVI/master/Example_NDVI/Capture.JPG)
+![Screenshot](https://raw.github.com/TreeMama/SSuperBlue-Calculate-LAI-NDVI/master/Example_NDVI/Capture.JPG)
 
 # <a name="setup"></a>Setup
 
