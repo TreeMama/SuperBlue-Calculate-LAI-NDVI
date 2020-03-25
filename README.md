@@ -47,7 +47,7 @@ replicate this result using a different data set and free python libraries.
 
 ![Screenshot](https://raw.github.com/TreeMama/SuperBlue-Calculate-LAI-NDVI/master/Example_NDVI/NDVI.jpg)
 
-I also attempted to calculate a version of the [LAI](https://crisp.nus.edu.sg/~acrs2001/pdf/155SAITO.PDF "LAI") using the NDVI I calculated, based of this formula:
+I also attempted to calculate a version of the [LAI](https://crisp.nus.edu.sg/~acrs2001/pdf/155SAITO.PDF "LAI") using the NDVI I calculated, based on this formula:
 
 	- LAI = 0.57exp(2.33NDVI)
 
