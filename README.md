@@ -53,7 +53,7 @@ I also attempted to calculate a version of the [LAI](https://crisp.nus.edu.sg/~a
 
 This is an example of a processed result.
 
-![Screenshot](https://raw.github.com/TreeMama/SSuperBlue-Calculate-LAI-NDVI/master/Example_NDVI/Capture.JPG)
+![Screenshot](https://raw.github.com/TreeMama/SuperBlue-Calculate-LAI-NDVI/master/Example_NDVI/Capture.JPG)
 
 # <a name="setup"></a>Setup
 
