@@ -45,7 +45,7 @@ The SuperBlue filter passes blue light AS WELL AS infrared light into the blue c
 This is an example of an NDVI image calculated using professional Remote Sensing software (which helped correct the white balance issues I was having). My goal was to try to
 replicate this result using a different data set and free python libraries.
 
-![Screenshot](https://raw.github.com/TreeMama/SuperBlue-Calculate-LAI-NDVI/master/Example_NDVI/NDVI.JPG)
+![Screenshot](https://raw.github.com/TreeMama/SuperBlue-Calculate-LAI-NDVI/master/Example_NDVI/NDVI.jpg)
 
 I also attempted to calculate a version of the [LAI](https://crisp.nus.edu.sg/~acrs2001/pdf/155SAITO.PDF "LAI") using the NDVI I calculated, based of this formula:
 
